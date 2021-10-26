@@ -31,7 +31,7 @@ const RecommendationSection = () => {
             <header>
                 <div className={"header-info"}>
                     <h2>This is a clone of Anbefalinger section at FINN.no </h2>
-                    <small>Iryna Kresinska, 23.10.2021</small>
+                    <small>Iryna Kresinska, 26.10.2021</small>
                 </div>
             </header>
             <section className={"recommendations"}>
