@@ -16,17 +16,20 @@ header {
     display: flex;
     align-items: center;
 }
+
 h3 {
     font-size: 1rem;
     font-weight: 400;
     line-height: 1.5;
 }
-.header {
+
+.header-info {
     max-width: 932px;
     width: 100%;
     margin: auto;
     padding: 10px;
 }
+
 .recommendations {
     max-width: 932px;
     margin: auto;
@@ -45,6 +48,7 @@ h3 {
 
 .item:hover {
     background: aliceblue;
+    cursor: pointer;
 }
 
 .img-wrapper {
@@ -59,13 +63,6 @@ h3 {
     aspect-ratio: 1;
 }
 
-.img-wrapper .heart {
-    position: absolute;
-    top: 15px;
-    right: 15px;
-    width: 25px;
-}
-
 .img-wrapper .main-img {
     display: block;
     width: 100%;
@@ -73,6 +70,7 @@ h3 {
 }
 
 .description {
+    position: relative;
     font-size: 0.8rem;
     font-weight: 100;
     color: #95979a;
@@ -81,8 +79,39 @@ h3 {
     margin: 10px 0;
 }
 
-.description .icon {
-    width: 20px;
+.icon-wrapper {
+    position: absolute;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: transparent;
+    border: none;
+    transition: background-color 300ms;
+}
+
+.icon-wrapper:hover {
+    background-color: rgba(147, 197, 253, 0.2);
+    cursor: pointer;
+}
+
+.icon-wrapper.heart-icon {
+    width: 40px;
+    height: 40px;
+    top: 3px;
+    right: 3px;
+    border-radius: 50%;
+}
+
+.icon-wrapper.dots-icon {
+    height: 36px;
+    width: 40px;
+    top: -10px;
+    right: 0;
+    border-radius: 8px;
+}
+
+.icon {
+    width: 24px;
 }
 
 @media screen and (min-width: 900px) {
