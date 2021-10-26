@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/finn.no_recommendation_section_clone/static/css/main.59b14c6d.chunk.css",
+    "main.js": "/finn.no_recommendation_section_clone/static/js/main.6244040b.chunk.js",
+    "main.js.map": "/finn.no_recommendation_section_clone/static/js/main.6244040b.chunk.js.map",
+    "runtime-main.js": "/finn.no_recommendation_section_clone/static/js/runtime-main.61f0789b.js",
+    "runtime-main.js.map": "/finn.no_recommendation_section_clone/static/js/runtime-main.61f0789b.js.map",
+    "static/js/2.2952bb10.chunk.js": "/finn.no_recommendation_section_clone/static/js/2.2952bb10.chunk.js",
+    "static/js/2.2952bb10.chunk.js.map": "/finn.no_recommendation_section_clone/static/js/2.2952bb10.chunk.js.map",
+    "index.html": "/finn.no_recommendation_section_clone/index.html",
+    "static/css/main.59b14c6d.chunk.css.map": "/finn.no_recommendation_section_clone/static/css/main.59b14c6d.chunk.css.map",
+    "static/js/2.2952bb10.chunk.js.LICENSE.txt": "/finn.no_recommendation_section_clone/static/js/2.2952bb10.chunk.js.LICENSE.txt",
+    "static/media/dots.9fd5eeb5.svg": "/finn.no_recommendation_section_clone/static/media/dots.9fd5eeb5.svg",
+    "static/media/heart.9cb73754.svg": "/finn.no_recommendation_section_clone/static/media/heart.9cb73754.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.61f0789b.js",
+    "static/js/2.2952bb10.chunk.js",
+    "static/css/main.59b14c6d.chunk.css",
+    "static/js/main.6244040b.chunk.js"
+  ]
+}
