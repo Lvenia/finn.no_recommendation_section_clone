@@ -2,7 +2,7 @@
 
 A static version of FINN.no UI section.
 
-[Go to page](https://lvenia.github.io/finn.no_recommendation_section_clone/)
+[Live demo](https://lvenia.github.io/finn.no_recommendation_section_clone/)
 
 ---
 ### Technical Keys
@@ -10,7 +10,7 @@ A static version of FINN.no UI section.
 * built with React;
 * responsive design;
 * styled in plain CSS;
-* deployed with GitHub Pages
+* deployed with GitHub Pages.
 
 ---
 ### Idea
